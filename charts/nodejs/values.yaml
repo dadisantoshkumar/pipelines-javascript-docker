@@ -7,4 +7,4 @@ service:
   externalPort: 80
 ingress:
   enabled: true
-  basedomain: <fxxxxxxxxxxxxxxxx6f>.southeastasia.aksapp.io ##Update basedomain value ##
+  basedomain: a573cacc9f2345d28884.eastus.aksapp.io
